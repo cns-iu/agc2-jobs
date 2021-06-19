@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-06-08">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="size" title="size" type="integer"></attribute>
+      <attribute id="description" title="description" type="string"></attribute>
+      <attribute id="cat" title="cat" type="string"></attribute>
+      <attribute id="size (s/m/l)" title="size (s/m/l)" type="string"></attribute>
+      <attribute id="start" title="start" type="string"></attribute>
+      <attribute id="end" title="end" type="integer"></attribute>
+      <attribute id="weight" title="weight" type="integer"></attribute>
+      <attribute id="data source" title="data source" type="string"></attribute>
+      <attribute id="data dictionary" title="data dictionary" type="string"></attribute>
+      <attribute id="pub1" title="pub1" type="string"></attribute>
+      <attribute id="pub2" title="pub2" type="string"></attribute>
+      <attribute id="pub3" title="pub3" type="string"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="relation type" title="relation type" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="CDC Opioid Mortality">
+        <attvalues>
+          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="description" value="A dataset of drug poisoning deaths at the national, state, and county levels as reported by mortality medical coders, nosologists, and other individuals responsible for processing vital records."></attvalue>
+          <attvalue for="cat" value="Harms"></attvalue>
+          <attvalue for="size (s/m/l)" value="S"></attvalue>
+          <attvalue for="start" value="1999"></attvalue>
+          <attvalue for="end" value="2018"></attvalue>
+          <attvalue for="weight" value="1"></attvalue>
+          <attvalue for="data source" value="https://www.cdc.gov/nchs/data-visualization/drug-poisoning-mortality/"></attvalue>
+          <attvalue for="data dictionary" value=""></attvalue>
+          <attvalue for="pub1" value="Cornaggia, K. R., Hund, J., Nguyen, G., &amp; Ye, Z. (2020). Opioid Crisis Effects On Municipal Finance. SSRN, (3448082). Retrieved from https://papers.ssrn.com/abstract=3448082"></attvalue>
+          <attvalue for="pub2" value="Anders, J. (2019). Medicaid, Marijuana and Opioids: Is Prescription Access to Blame? Rochester, NY. Retrieved from https://papers.ssrn.com/abstract=3247989"></attvalue>
+          <attvalue for="pub3" value="Deiana, C., Giua, L., &amp; Nisticò, R. (2019). The Economics Behind the Epidemic: Afghan Opium Price and Prescription Opioids in the US. Rochester, NY. Retrieved from https://papers.ssrn.com/abstract=3352893"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-157.17795" y="-177.65305"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="1" label="TEDS admissions">
+        <attvalues>
+          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="description" value="A national data system of annual admissions to substance abuse treatment facilities because substance abuse treatment programs are required by state laws to report their publically-funded admissions to the state. Some states also collect privately-funded admissions from facilities that receive public funding."></attvalue>
+          <attvalue for="cat" value="Harms"></attvalue>
+          <attvalue for="size (s/m/l)" value="L"></attvalue>
+          <attvalue for="start" value="1992"></attvalue>
+          <attvalue for="end" value="2017"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+          <attvalue for="data source" value="https://www.datafiles.samhsa.gov/dataset/treatment-episode-data-set-admissions-2018-teds-2018-ds0001"></attvalue>
+          <attvalue for="data dictionary" value="http://samhda.s3-us-gov-west-1.amazonaws.com/s3fs-public/field-uploads-protected/studies/TEDS-A-2017/TEDS-A-2017-datasets/TEDS-A-2017-DS0001/TEDS-A-2017-DS0001-info/TEDS-A-2017-DS0001-info-codebook.pdf"></attvalue>
+          <attvalue for="pub1" value="Smith, R. A. (2020). The Effects of Medical Marijuana Dispensaries on Adverse Opioid Outcomes. Economic Inquiry, 58(2), 569-588. https://doi.org/10.1111/ecin.12825"></attvalue>
+          <attvalue for="pub2" value="Meinhofer, A., &amp; Witman, A. E. (2018). The role of health insurance on treatment for opioid use disorders: Evidence from the Affordable Care Act Medicaid expansion. Journal of Health Economics, 60, 177-197. https://doi.org/10.1016/j.jhealeco.2018.06.004"></attvalue>
+          <attvalue for="pub3" value="Powell, D., Pacula, R. L., &amp; Jacobson, M. (2015). Do Medical Marijuana Laws Reduce Addictions and Deaths Related to Pain Killers? National Bureau of Economic Research Working Paper Series, 21345. https://doi.org/10.3386/w21345"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="37.908295" y="-319.6728"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="2" label="NHIS">
+        <attvalues>
+          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="description" value="A national survey collected through personal household interview about the health of the civillian noninstitutionalized population of the US."></attvalue>
+          <attvalue for="cat" value="Harms"></attvalue>
+          <attvalue for="size (s/m/l)" value="M"></attvalue>
+          <attvalue for="start" value="1963"></attvalue>
+          <attvalue for="end" value="2019"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+          <attvalue for="data source" value="https://www.cdc.gov/nchs/nhis/2019nhis.htm"></attvalue>
+          <attvalue for="data dictionary" value="https://www.cdc.gov/nchs/nhis/2019nhis.htm"></attvalue>
+          <attvalue for="pub1" value="Schnell, M. (2017). Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids. Working Paper, 1-83. papers3://publication/uuid/A21DE120-423A-4DF7-93B6-D8C7DFD9CD12"></attvalue>
+          <attvalue for="pub2" value="Cawley, J., &amp; Ruhm, C. (2011). The Economics of Risky Health Behaviors. NBER Working Papers Series, 2011(online), w17081. https://doi.org/10.3386/w17081"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-142.34991" y="-287.68762"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="3" label="NSDUH">
+        <attvalues>
+          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="description" value="A yearly national survey since 1971 about tobacco, alcohol, and drug use, mental health, and other health-related issues."></attvalue>
+          <attvalue for="cat" value="Harms"></attvalue>
+          <attvalue for="size (s/m/l)" value="M"></attvalue>
+          <attvalue for="start" value="1971"></attvalue>
+          <attvalue for="end" value="2018"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+          <attvalue for="data source" value="https://nsduhweb.rti.org/respweb/homepage.cfm"></attvalue>
+          <attvalue for="data dictionary" value="https://pdas.samhsa.gov/#/survey/N-SSATS-2018-DS0001"></attvalue>
+          <attvalue for="pub1" value="Mulligan, C. B. (2020). Prices and Federal Policies in Opioid Markets. https://doi.org/10.3386/w26812"></attvalue>
+          <attvalue for="pub2" value="Powell, D., Alpert, A., &amp; Pacula, R. L. (2019). A Transitioning Epidemic: How The Opioid Crisis Is Driving The Rise In Hepatitis C. Health Affairs, 38(2), 287-294. https://doi.org/10.1377/hlthaff.2018.05232"></attvalue>
+          <attvalue for="pub3" value="Beheshti, D. (2019). Adverse health effects of abuse?deterrent opioids: Evidence from the reformulation of OxyContin. Health Economics, 28(12), 1449-1461. https://doi.org/10.1002/hec.3944"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="170.24832" y="-214.13733"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="4" label="NAMCS">
+        <attvalues>
+          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="description" value="An annual, national survey of a sample of non-federally employed, office-based physicians who are primarily engaged in direct patient care about ambulatory care provided at physicians' offices."></attvalue>
+          <attvalue for="cat" value="Harms"></attvalue>
+          <attvalue for="size (s/m/l)" value="M"></attvalue>
+          <attvalue for="start" value="1973"></attvalue>
+          <attvalue for="end" value="2018"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+          <attvalue for="data source" value="https://www.census.gov/programs-surveys/namcs.html"></attvalue>
+          <attvalue for="data dictionary" value="https://www.cdc.gov/nchs/ahcd/index.htm"></attvalue>
+          <attvalue for="pub1" value="Bachhuber, M. A., Saloner, B., LaRochelle, M., Merlin, J. S., Maughan, B. C., Polsky, D., Shaparin, N., &amp; Murphy, S. M. (2018). Physician time burden associated with querying prescription drug monitoring programs. Pain Medicine (United States), 19(10), 1952-1960. https://doi.org/10.1093/pm/pny053"></attvalue>
+          <attvalue for="pub2" value="Bao, Y., Pan, Y., Taylor, A., Radakrishnan, S., Luo, F., Pincus, H. A., &amp; Schackman, B. R. (2016). Prescription drug monitoring programs are associated with sustained reductions in opioid prescribing by physicians. Health Affairs, 35(6), 1045-1051. https://doi.org/10.1377/hlthaff.2015.1673"></attvalue>
+          <attvalue for="pub3" value="Mark, T. L., Yee, T., Levit, K. R., Camacho-Cook, J., Cutler, E., &amp; Carroll, C. D. (2016). Insurance financing increased for mental health conditions but not for substance use disorders, 1986-2014. Health Affairs, 35(6), 958-965. https://doi.org/10.1377/hlthaff.2016.0002"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="26.207657" y="-121.88779"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="5" label="MEPS">
+        <attvalues>
+          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="description" value="A national survey of families and individuals, their medical providers, and employers across the US with questions about specific health services, frequency of use of health services, cost of health services, how the health services are pair for, and the cost, scope, and breadth of health insurance held by and available to US workers."></attvalue>
+          <attvalue for="cat" value="Pharma"></attvalue>
+          <attvalue for="size (s/m/l)" value="L"></attvalue>
+          <attvalue for="start" value="1996"></attvalue>
+          <attvalue for="end" value="2018"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+          <attvalue for="data source" value="https://www.meps.ahrq.gov/mepsweb/about_meps/survey_back.jsp"></attvalue>
+          <attvalue for="pub1" value="Alpert, A. E., Evans, W. N., Lieber, E. M. J., &amp; Powell, D. (2019). Origins of the Opioid Crisis and Its Enduring Impacts. https://doi.org/10.3386/w26500"></attvalue>
+          <attvalue for="pub2" value="Soni, A. (2019). Health Insurance, Price Changes, and the Demand for Pain Relief Drugs: Evidence from Medicare Part D. Rochester, NY. Retrieved from https://papers.ssrn.com/abstract=3268968"></attvalue>
+          <attvalue for="pub3" value="Alpert, A., Powell, D., &amp; Pacula, R. L. (2018). Supply-Side Drug Policy in the Presence of Substitutes: Evidence from the Introduction of Abuse-Deterrent Opioids. American Economic Journal: Economic Policy, 10(4), 1-35. https://doi.org/10.1257/pol.20170082"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="-249.56387" y="392.193"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="6" label="N-SSATs">
+        <attvalues>
+          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="description" value="An annual census of all treatment facilities listed on the I-BHS, an electronic master list of all organized substance abuse treatment faciliies known to the SAMHSA. Information on location, organization, structure, services, and utilization of substance abuse treatment facilities in the US is collected."></attvalue>
+          <attvalue for="cat" value="Jobs"></attvalue>
+          <attvalue for="size (s/m/l)" value="M"></attvalue>
+          <attvalue for="start" value="1997"></attvalue>
+          <attvalue for="end" value="2018"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+          <attvalue for="data source" value="https://wwwdasis.samhsa.gov/dasis2/nssats.htm"></attvalue>
+          <attvalue for="data dictionary" value="https://wwwdasis.samhsa.gov/dasis2/nssats/NSSATS_2018/NSSATS-2018-C.pdf"></attvalue>
+          <attvalue for="pub1" value="Grooms, J., &amp; Ortega, A. (2019). Examining Medicaid Expansion and the Treatment of Substance Use Disorders. AEA Papers and Proceedings, 109, 187-192. https://doi.org/10.1257/pandp.20191090"></attvalue>
+          <attvalue for="pub2" value="Maclean, J. C., &amp; Saloner, B. (2018). Substance Use Treatment Provider Behavior and Healthcare Reform: Evidence from Massachusetts. Health Economics, 27(1), 76-101. https://doi.org/10.1002/hec.3484"></attvalue>
+          <attvalue for="pub3" value="Harris, K. (2017). The Effect of State Parity Laws on How Providers Treat Substance Use Disorder. Monthly Labor Review, 1b. Retrieved from https://www.questia.com/library/journal/1G1-500009397/the-effect-of-state-parity-laws-on-how-providers-treat"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="245.83356" y="-6.4881535"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="7" label="QCEW">
+        <attvalues>
+          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="description" value="Quarterly count of employment and wages reported by employers covering more than 95% of US jobs available at the county, Metropolitan Statistical Area, state and national levels by detailed industry."></attvalue>
+          <attvalue for="cat" value="Jobs"></attvalue>
+          <attvalue for="size (s/m/l)" value="L"></attvalue>
+          <attvalue for="start" value="1975"></attvalue>
+          <attvalue for="end" value="2019"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+          <attvalue for="data source" value="https://www.bls.gov/cew/"></attvalue>
+          <attvalue for="data dictionary" value="https://data.bls.gov/cew/doc/layouts/cty_high_level_layout.htm"></attvalue>
+          <attvalue for="pub1" value="Currie, J., Jin, J. Y., &amp; Schnell, M. (2018). US Employment and Opioids: Is There a Connection? https://doi.org/10.3386/w24440"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="374.6215" y="210.21329"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="8" label="AHRF">
+        <attvalues>
+          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="description" value="A national dataset that is comprised of data collected from more than 50 sources and contains more than 6,000 variables related to health care access."></attvalue>
+          <attvalue for="cat" value="Jobs"></attvalue>
+          <attvalue for="size (s/m/l)" value="S"></attvalue>
+          <attvalue for="start" value="mid-1970s"></attvalue>
+          <attvalue for="end" value="2020"></attvalue>
+          <attvalue for="weight" value="1"></attvalue>
+          <attvalue for="data source" value="https://data.hrsa.gov/Content/Documents/topics/AHRF%20Definition.pdf"></attvalue>
+          <attvalue for="data dictionary" value="https://data.hrsa.gov/topics/health-workforce/ahrf#:~:text=Area%20Health%20Resources%20Files%20The%20Area%20Health%20Resources,and%20national%20levels%2C%20from%20over%2050%20data%20sources."></attvalue>
+          <attvalue for="pub1" value="Smart, R., Kase, C. A., Taylor, E. A., Lumsden, S., Smith, S. R., &amp; Stein, B. D. (2020). Strengths and weaknesses of existing data sources to support research to address the opioids crisis. Preventive Medicine Reports, 17(May 2019), 101015. https://doi.org/10.1016/j.pmedr.2019.101015"></attvalue>
+          <attvalue for="pub2" value="Gupta, S., Nguyen, T., Freeman, P., &amp; Simon, K. (2020). Competitive Effects of Federal and State Opioid Restrictions: Evidence from the Controlled Substance Laws. w27520. http://www.nber.org/papers/w27520.pdf"></attvalue>
+          <attvalue for="pub3" value="Lin, D., Liu, S., &amp; Ruhm, C. J. (2020). Opioid Deaths and Local Healthcare Intensity: A Longitudinal Analysis of the US Population, 2003-2014. American Journal of Preventive Medicine, 58(1), 50-58. https://doi.org/10.1016/j.amepre.2019.09.008"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="162.06685" y="119.28904"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="9" label="CPS">
+        <attvalues>
+          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="description" value="A monthly national survey sent to a sample of people across the US that asks questions about education, employment, internet access, transportation, etc."></attvalue>
+          <attvalue for="cat" value="Jobs"></attvalue>
+          <attvalue for="size (s/m/l)" value="M"></attvalue>
+          <attvalue for="start" value="1994"></attvalue>
+          <attvalue for="end" value="2021"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+          <attvalue for="data source" value="https://www.census.gov/programs-surveys/cps/technical-documentation/methodology.html"></attvalue>
+          <attvalue for="data dictionary" value="https://www.census.gov/programs-surveys/cps/data/datasets.html"></attvalue>
+          <attvalue for="pub1" value="Maclean, J. C., Ghimire, K. M., &amp; Nicholas, L. H. (2021). Marijuana legalization and disability claiming. Health Economics (United Kingdom), 30(2), 453-469. https://doi.org/10.1002/hec.4190"></attvalue>
+          <attvalue for="pub2" value="Buckles, K., Evans, W. N., &amp; Lieber, E. M. J. (2020). The Drug Crisis and the Living Arrangements of Children. NBER Worging Paper Series. https://fas.org/sgp/crs/natsec/RL32492.pdf"></attvalue>
+          <attvalue for="pub3" value="Dow, W. H., Godøy, A., Lowenstein, C., &amp; Reich, M. (2020). Can Labor Market Policies Reduce Deaths of Despair? Journal of Health Economics, 74. https://doi.org/10.1016/j.jhealeco.2020.102372"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="564.31714" y="142.41248"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="10" label="CBP">
+        <attvalues>
+          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="description" value="A national database of annual statistics for businesses with paid employees within the US and US terriroties, taken from the Business Register. Data includes the number of establishments, employment during the week of March 12, first quarter payroll, and annual payroll."></attvalue>
+          <attvalue for="cat" value="Jobs"></attvalue>
+          <attvalue for="size (s/m/l)" value="L"></attvalue>
+          <attvalue for="start" value="1986"></attvalue>
+          <attvalue for="end" value="2017"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+          <attvalue for="data source" value="https://www.census.gov/programs-surveys/cbp/data/datasets.html"></attvalue>
+          <attvalue for="data dictionary" value="https://www2.census.gov/programs-surveys/cbp/technical-documentation/records-layouts/2017_record_layouts/county_layout_2017.txt"></attvalue>
+          <attvalue for="pub1" value="Pierce, J. R., &amp; Schott, P. K. (2020). Trade Liberalization and Mortality: Evidence from US Counties. American Economic Review: Insights, 2(1), 47-64. https://doi.org/10.1257/aeri.20180396"></attvalue>
+          <attvalue for="pub2" value="Bondurant, S. R., Lindo, J. M., &amp; Swensen, I. D. (2018). Substance abuse treatment centers and local crime. Journal of Urban Economics, 104, 124-133. https://doi.org/10.1016/j.jue.2018.01.007"></attvalue>
+          <attvalue for="pub3" value="Dave, D., Deza, M., &amp; Horn, B. P. (2018). Prescription Drug Monitoring Programs, Opioid Abuse, and Crime. https://doi.org/10.3386/w24975"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="223.1835" y="375.0897"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="11" label="ACS">
+        <attvalues>
+          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="description" value="A monthly national survey sent to a sample of people across the US that asks questions about education, employment, internet access, transportation, etc."></attvalue>
+          <attvalue for="cat" value="Jobs"></attvalue>
+          <attvalue for="size (s/m/l)" value="L"></attvalue>
+          <attvalue for="start" value="2005"></attvalue>
+          <attvalue for="end" value="2018"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+          <attvalue for="data source" value="https://www.census.gov/programs-surveys/acs/data.html"></attvalue>
+          <attvalue for="data dictionary" value="https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/README_2018_FTP_Archives.pdf"></attvalue>
+          <attvalue for="pub1" value="Rietveld, C. A., &amp; Patel, P. C. (2020). Prescription opioids and new business establishments. Small Business Economics. https://doi.org/10.1007/s11187-020-00343-x"></attvalue>
+          <attvalue for="pub2" value="Kaestner, R., &amp; Ziedan, E. (2019). Mortality and Socioeconomic Consequences of Prescription Opioids: Evidence from State Policies. https://doi.org/10.3386/w26135"></attvalue>
+          <attvalue for="pub3" value="Gihleb, R., Giuntella, O., &amp; Zhang, N. (2019). Prescription Drug Monitoring Programs and Neonatal Outcomes. Rochester, NY. Retrieved from https://papers.ssrn.com/abstract=3495773"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="421.56723" y="30.495728"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="12" label="Open Payments">
+        <attvalues>
+          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="description" value="A national disclosure program provides detailed information on financial relationships including consulting fees, research grants, travel reimbursements, ownership, and other direct payments from manufacturers to medical practitioners (physicians and teaching hospitals)."></attvalue>
+          <attvalue for="cat" value="Pharma"></attvalue>
+          <attvalue for="size (s/m/l)" value="L"></attvalue>
+          <attvalue for="start" value="2013"></attvalue>
+          <attvalue for="end" value="2019"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+          <attvalue for="data source" value="https://www.cms.gov/OpenPayments"></attvalue>
+          <attvalue for="data dictionary" value="https://www.cms.gov/OpenPayments/Downloads/OpenPaymentsDataDictionary.pdf"></attvalue>
+          <attvalue for="pub1" value="Li, W., &amp; Zhu, Q. (2019). The Opioid Epidemic and Local Public Financing: Evidence from Municipal Bonds. https://doi.org/10.2139/ssrn.3454026"></attvalue>
+          <attvalue for="pub2" value="Nguyen, T. D., Bradford, W. D., &amp; Simon, K. I. (2019). How do Opioid Prescribing Restrictions Affect Pharmaceutical Promotion? Lessons from the Mandatory Access Prescription Drug Monitoring Programs. https://doi.org/10.3386/w26356"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="-496.72305" y="357.00378"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="13" label="MEDICAID">
+        <attvalues>
+          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="description" value="A national dataset reported by states for covered outpatient drugs that are paid for by state Medicaid agencies since the start of the Medicaid Drug Rebate Program. The data includes state, drug name, National Drug Code, number of prescriptions, and dollars reimbursed."></attvalue>
+          <attvalue for="cat" value="Pharma"></attvalue>
+          <attvalue for="size (s/m/l)" value="L"></attvalue>
+          <attvalue for="start" value="1991"></attvalue>
+          <attvalue for="end" value="2019"></attvalue>
+          <attvalue for="weight" value="3"></attvalue>
+          <attvalue for="data source" value="https://data.medicaid.gov/State-Drug-Utilization/State-Drug-Utilization-Data-1991/cnf4-jwwr"></attvalue>
+          <attvalue for="pub1" value="Abouk, R., Pacula, R. L., &amp; Powell, D. (2019). Association between State Laws Facilitating Pharmacy Distribution of Naloxone and Risk of Fatal Overdose. JAMA Internal Medicine, 179(6), 805-811. https://doi.org/10.1001/jamainternmed.2019.0272"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="-413.88168" y="107.31002"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="14" label="Medicare">
+        <attvalues>
+          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="description" value="A national database of all transactions covered by the Medicare prescription drug plan for both Prescription Drug Plans (PDPs) and Medicare Advantage Prescription Drug Plans (MA-PDs). Variables include service date, produce service ID, quantity dispensed, days supply, cost, payment, and linkage variables."></attvalue>
+          <attvalue for="cat" value="Pharma"></attvalue>
+          <attvalue for="size (s/m/l)" value="M"></attvalue>
+          <attvalue for="start" value="2006"></attvalue>
+          <attvalue for="end" value="2017"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+          <attvalue for="data source" value="https://data.medicare.gov/"></attvalue>
+          <attvalue for="pub1" value="Rhodes, J. (n.d.). Private Health Insurer Incentives and Prescription Opioid Use:  Evidence from Medicare Part D. https://drive.google.com/file/d/1CWeTYQbib7QluDoRwSGoQg5E9gl_vGGe/view"></attvalue>
+          <attvalue for="pub2" value="Harris, M. C., Kessler, L. M., Murray, M. N., &amp; Glenn, B. (2019). Prescription Opioids and Labor Market Pains: The Effect of Schedule II Opioids on Labor Force Participation and Unemployment. Journal of Human Resources, 1017. https://doi.org/10.3368/jhr.55.4.1017-9093R2"></attvalue>
+          <attvalue for="pub3" value="Beheshti, D. (2019). The Impact of Opioids on the Labor Market: Evidence from Drug Rescheduling. Retrieved from https://drive.google.com/file/d/1D0XdzcRRZuG3c7WoouaoiOw2q_IH4Rcr/view?usp=embed_facebook"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-37.065704" y="390.31418"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="15" label="ARCOS">
+        <attvalues>
+          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="description" value="An automated, comprehaensive drug reporting system which monitors the flow of DEA controlled substances from their point of manufacture through commercial distribution channels to point of sale or distribution of the dispensing/retail level."></attvalue>
+          <attvalue for="cat" value="Pharma"></attvalue>
+          <attvalue for="size (s/m/l)" value="M"></attvalue>
+          <attvalue for="start" value="2006"></attvalue>
+          <attvalue for="end" value="2019"></attvalue>
+          <attvalue for="weight" value="2"></attvalue>
+          <attvalue for="data source" value="https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/"></attvalue>
+          <attvalue for="data dictionary" value="https://www.deadiversion.usdoj.gov/arcos/index.html#background"></attvalue>
+          <attvalue for="pub1" value="US Department of Justice, Drug Enforcement Administration, Division of Diversion Control. 2019. ARCOS retail drug summary report. Available at https://www. deadiversion.usdoj.gov/ arcos/ retail_drug_summary/index.html (accessed on 6 October 2019)"></attvalue>
+          <attvalue for="pub2" value="Buchmueller, T. C., Carey, C. M., &amp; Meille, G. (2019). How Well Do Doctors Know Their Patients? Evidence from a Mandatory Access Prescription Drug Monitoring Program. https://doi.org/10.3386/w26159"></attvalue>
+          <attvalue for="pub3" value="D'Lima, W., &amp; Thibodeau, M. (2019). Health Crisis and Housing Market Effects - Evidence from the US Opioid Epidemic. SSRN, (ID 3456404). Retrieved from https://papers.ssrn.com/abstract=3456404"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-273.34766" y="206.50403"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="16" label="CDC Prescription">
+        <attvalues>
+          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="description" value="The source for all prescribing data comes from IQVIA Xponent, which is based on a sample of approximately 49,900 retail (non-hospital) pharmacies, which dispense nearly 92% of all retail prescriptions in the US. This database does not include mail order prescriptions."></attvalue>
+          <attvalue for="cat" value="Pharma"></attvalue>
+          <attvalue for="size (s/m/l)" value="S"></attvalue>
+          <attvalue for="start" value="2006"></attvalue>
+          <attvalue for="end" value="2018"></attvalue>
+          <attvalue for="weight" value="1"></attvalue>
+          <attvalue for="data source" value="https://wonder.cdc.gov/"></attvalue>
+          <attvalue for="data dictionary" value="https://wonder.cdc.gov/wonder/help/ucd.html#"></attvalue>
+          <attvalue for="pub1" value="Aliprantis, D., Fee, K., &amp; Schweitzer, M. (2019). Opioids and the Labor Market. Rochester, NY. Retrieved from https://papers.ssrn.com/abstract=3179068"></attvalue>
+          <attvalue for="pub2" value="CouncilEconAdvisors. (2019). The Role of Opioid Prices in the Evolving Opioid Crisis. Retrieved from https://www.whitehouse.gov/wp-content/uploads/2019/04/The-Role-of-Opioid-Prices-in-the-Evolving-Opioid-Crisis.pdf"></attvalue>
+          <attvalue for="pub3" value="Metcalf, G. E., &amp; Wang, Q. (2019). Abandoned by Coal, Swallowed by Opioids? National Bureau of Economic Research Working Paper Series, (26551). https://doi.org/10.3386/w26551"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-146.68826" y="276.03125"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="17" label="NAMSDL">
+        <attvalues>
+          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="description" value="NAMSDL, originally President's Commission on Model State Drug Laws, was established to create model codes of laws to help states effectively address alcohol and other drug abuse. Topics include prevention and intervention, treatment, recovery support, overdose abatement, criminal justice, alcohol, and PDMPs."></attvalue>
+          <attvalue for="cat" value="Policy"></attvalue>
+          <attvalue for="size (s/m/l)" value="S"></attvalue>
+          <attvalue for="start" value="1993"></attvalue>
+          <attvalue for="end" value="2019"></attvalue>
+          <attvalue for="weight" value="1"></attvalue>
+          <attvalue for="data source" value="https://namsdl.org/"></attvalue>
+          <attvalue for="pub1" value="Mallatt, J. (2019). Unintended Consequences of Prescription Monitoring: Policy-Induced Substitution to Illicit Drugs. Rochester, NY. Retrieved from https://papers.ssrn.com/abstract=3418615"></attvalue>
+          <attvalue for="pub2" value="Horwitz, J., Davis, C. S., McClelland, L. S., Fordon, R. S., &amp; Meara, E. (2018). The Problem of Data Quality in Analyses of Opioid Regulation: The Case of Prescription Drug Monitoring Programs. https://doi.org/10.3386/w24947"></attvalue>
+          <attvalue for="pub3" value="Meinhofer, A. (2018). Prescription Drug Monitoring Programs: The Role of Asymmetric Information on Drug Availability and Abuse. American Journal of Health Economics, 4(4), 504-526."></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-524.8336" y="-170.1168"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="18" label="PDAPS">
+        <attvalues>
+          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="description" value="A national database that tracks key state laws related to prescription drug abuse. Topic areas include criminal justice, expanded access to naloxone, good samaritan 911 immunity, medical marijuana, opioid related controls, and PDMP."></attvalue>
+          <attvalue for="cat" value="Policy"></attvalue>
+          <attvalue for="size (s/m/l)" value="S"></attvalue>
+          <attvalue for="start" value="2001"></attvalue>
+          <attvalue for="end" value="2017"></attvalue>
+          <attvalue for="weight" value="1"></attvalue>
+          <attvalue for="data source" value="http://pdaps.org/"></attvalue>
+          <attvalue for="pub1" value="Chan, N. W., Burkhardt, J., &amp; Flyr, M. (2020). The Effects of Recreational Marijuana Legalization and Dispensing on Opioid Mortality. Economic Inquiry, 58(2), 589-606. https://doi.org/10.1111/ecin.12819"></attvalue>
+          <attvalue for="pub2" value="Kravitz-Wirtz, N., Davis, C. S., Ponicki, W. R., Rivera-Aguirre, A., Marshall, B. D. L., Martins, S. S., &amp; Cerdá, M. (2020). Association of Medicaid Expansion With Opioid Overdose Mortality in the United States. JAMA Network Open, 3(1), e1919066. https://doi.org/10.1001/jamanetworkopen.2019.19066"></attvalue>
+          <attvalue for="pub3" value="Abouk, R., Helmchen, L. A., Moghtaderi, A., &amp; Pines, J. (2019). The ACA Medicaid Expansions and Opioid Mortality: Is There a Link? Rochester, NY. Retrieved from https://papers.ssrn.com/abstract=3368434"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-376.11267" y="-191.31267"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="19" label="PDMP">
+        <attvalues>
+          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="description" value="An electronic database that tracks controlled substance prescriptions in a state in real time. Not every state has a PDMP and what information practitioners and pharmacists are required to include differ by state. The Kentucky All Schedule Prescription Electronic Reporting system, or KASPER, represents one standard of these data systems."></attvalue>
+          <attvalue for="cat" value="Pharma"></attvalue>
+          <attvalue for="size (s/m/l)" value="S"></attvalue>
+          <attvalue for="start" value="2007"></attvalue>
+          <attvalue for="end" value="2020"></attvalue>
+          <attvalue for="weight" value="1"></attvalue>
+          <attvalue for="data source" value="https://www.cdc.gov/drugoverdose/pdmp/states.html"></attvalue>
+          <attvalue for="pub1" value="Ziedan, E., &amp; Kaestner, R. (2020). Effect of Prescription Opioids and Prescription Opioid Control Policies on Infant Health. National Bureau of Economic Research Working Paper Series, (26749). https://doi.org/10.3386/w26749"></attvalue>
+          <attvalue for="pub2" value="Wang, L. X. (2020). The Complementarity of Drug Monitoring Programs and Health IT for Reducing Opioid-Related Mortality and Morbidity. Rochester, NY. Retrieved from https://papers.ssrn.com/abstract=3176809"></attvalue>
+          <attvalue for="pub3" value="Brown, E., &amp; Wehby, G. L. (2019). Economic Conditions and Drug and Opioid Overdose Deaths. Medical Care Research and Review: MCRR, 76(4), 462-477. https://doi.org/10.1177/1077558717722592"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-540.7565" y="200.42616"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="0" target="3" label="County">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="0" target="5" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="0" target="6" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="0" target="7" label="State, County, FIPS" weight="3.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="0" target="8" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="0" target="9" label="State, County">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="0" target="10" label="State, County, FIPS" weight="3.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="0" target="11" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="0" target="12" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="0" target="13" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="0" target="14" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="0" target="15" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="0" target="16" label="State, County, FIPS" weight="3.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="0" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="0" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="1" target="5" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="1" target="6" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="1" target="7" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="1" target="8" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="1" target="9" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="1" target="10" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="1" target="11" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="1" target="12" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="1" target="13" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="1" target="14" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="1" target="15" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="1" target="16" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="1" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="1" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="2" target="4" label="MSA, U.S. region" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="2" target="9" label="MSA">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="3" target="7" label="County">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="3" target="8" label="County">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="3" target="9" label="County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="3" target="10" label="County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="3" target="11" label="County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="3" target="15" label="County">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="3" target="16" label="County">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="5" target="6" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="5" target="7" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="5" target="8" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="5" target="9" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="5" target="10" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="5" target="11" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="5" target="12" label="State, Drug name" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="5" target="13" label="State, Drug name" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="5" target="14" label="State, Drug name" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="5" target="15" label="State, Drug name" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="5" target="16" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="5" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="5" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="6" target="7" label="State, NAICS" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="6" target="8" label="State, NAICS" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="6" target="9" label="State, NAICS" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="6" target="10" label="State, NAICS" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="6" target="11" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="6" target="12" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="6" target="13" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="6" target="14" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="6" target="15" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="6" target="16" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="6" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="6" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="7" target="8" label="State, County, NAICS" weight="3.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="7" target="9" label="State, County, NAICS" weight="3.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="7" target="10" label="State, County, FIPS, NAICS" weight="4.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="7" target="11" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="7" target="12" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="7" target="13" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="7" target="14" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="7" target="15" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="7" target="16" label="State, County, FIPS" weight="3.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="7" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="7" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="8" target="9" label="State, County, NAICS" weight="3.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="8" target="10" label="State, County, NAICS" weight="3.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="8" target="11" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="8" target="12" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="8" target="13" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="8" target="14" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="8" target="15" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="8" target="16" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="8" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="8" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="9" target="10" label="State, County, NAICS" weight="3.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="9" target="11" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="9" target="12" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="9" target="13" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="9" target="14" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="9" target="15" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="9" target="16" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="9" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="9" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="10" target="11" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="10" target="12" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="10" target="13" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="10" target="14" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="10" target="15" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="99" source="10" target="16" label="State, County, FIPS" weight="3.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="10" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="10" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="11" target="12" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="11" target="13" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="11" target="14" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="11" target="15" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="11" target="16" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="11" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="11" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="12" target="13" label="State, Drug name" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="12" target="14" label="State, City, Drug name" weight="3.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="12" target="15" label="State, ZIP code, Drug name" weight="3.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="12" target="16" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="12" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="12" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="13" target="14" label="State, Drug name" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="13" target="15" label="State, Drug name" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="13" target="16" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="13" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="13" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="14" target="15" label="State, Drug name" weight="2.0">
+        <viz:color r="0" g="153" b="240"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Crosswalk and Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="14" target="16" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="14" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="14" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="15" target="16" label="State, County" weight="2.0">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="15" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="15" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="16" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="128" source="16" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="129" source="17" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="130" source="19" target="0" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="131" source="19" target="1" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="132" source="19" target="5" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="133" source="19" target="6" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="134" source="19" target="7" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="135" source="19" target="8" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="136" source="19" target="9" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="137" source="19" target="10" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="138" source="19" target="11" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="139" source="19" target="12" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="140" source="19" target="13" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="141" source="19" target="14" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="142" source="19" target="15" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="143" source="19" target="16" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="144" source="19" target="17" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="145" source="19" target="18" label="State">
+        <viz:color r="0" g="153" b="121"></viz:color>
+        <attvalues>
+          <attvalue for="relation type" value="Geo Unit"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

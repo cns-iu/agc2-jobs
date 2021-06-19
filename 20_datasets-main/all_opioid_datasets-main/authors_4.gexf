@@ -1,0 +1,2775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-06-08">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="frequency" title="frequency" type="integer"></attribute>
+      <attribute id="size" title="size" type="integer"></attribute>
+      <attribute id="datasetname" title="datasetname" type="string"></attribute>
+      <attribute id="format" title="format" type="string"></attribute>
+      <attribute id="type" title="type" type="string"></attribute>
+      <attribute id="category" title="category" type="string"></attribute>
+      <attribute id="link" title="link" type="string"></attribute>
+      <attribute id="dictionary" title="dictionary" type="string"></attribute>
+      <attribute id="availability" title="availability" type="string"></attribute>
+      <attribute id="availability_num" title="availability_num" type="integer"></attribute>
+      <attribute id="format_num" title="format_num" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Maclean2020" label="Maclean2020">
+        <attvalues>
+          <attvalue for="frequency" value="85"></attvalue>
+          <attvalue for="size" value="40"></attvalue>
+          <attvalue for="datasetname" value="Maclean, J. C., Mallatt, J., Ruhm, C. J., &amp; Simon, K. (2020). Economic Studies on the Opioid Crisis: A Review. NBER Working Papers. https://doi.org/10.3386/w28067"></attvalue>
+          <attvalue for="format" value="author"></attvalue>
+          <attvalue for="type" value="author"></attvalue>
+          <attvalue for="category" value="author"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="610.4677" y="141.0622"></viz:position>
+        <viz:color r="140" g="199" b="179"></viz:color>
+      </node>
+      <node id="Pain2017" label="Bonnie2017">
+        <attvalues>
+          <attvalue for="frequency" value="16"></attvalue>
+          <attvalue for="size" value="40"></attvalue>
+          <attvalue for="datasetname" value="Bonnie, R. J., Ford, M. A., &amp; Phillips, J. K. (Eds.). (2017). Pain Management and the Opioid Epidemic: Balancing Societal and Individual Benefits and Risks of Prescription Opioid Use. Washington D.C.: National Academies Press. https://doi.org/10.17226/24781  Appendix C: https://www.nap.edu/read/24781/chapter/14"></attvalue>
+          <attvalue for="format" value="author"></attvalue>
+          <attvalue for="type" value="author"></attvalue>
+          <attvalue for="category" value="author"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="456.48364" y="407.50507"></viz:position>
+        <viz:color r="35" g="150" b="111"></viz:color>
+      </node>
+      <node id="Smart2018" label="Smart2018">
+        <attvalues>
+          <attvalue for="frequency" value="60"></attvalue>
+          <attvalue for="size" value="40"></attvalue>
+          <attvalue for="datasetname" value="Smart, R., Kase, C. A., Meyer, A., &amp; Stein, B. (2018). Data Sources and Data-Linking Strategies to Support Research to Address the Opioid Crisis. Retrieved from https://aspe.hhs.gov/system/files/pdf/259641/OpioidDataLinkage.pdf"></attvalue>
+          <attvalue for="format" value="author"></attvalue>
+          <attvalue for="type" value="author"></attvalue>
+          <attvalue for="category" value="author"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="57.946854" y="210.53569"></viz:position>
+        <viz:color r="84" g="172" b="142"></viz:color>
+      </node>
+      <node id="Smart2020" label="Smart2020">
+        <attvalues>
+          <attvalue for="frequency" value="42"></attvalue>
+          <attvalue for="size" value="40"></attvalue>
+          <attvalue for="datasetname" value="Smart, R., Kase, C. A., Taylor, E. A., Lumsden, S., Smith, S. R., &amp; Stein, B. D. (2020). Strengths and weaknesses of existing data sources to support research to address the opioids crisis. Preventive Medicine Reports, 17. https://doi.org/10.1016/j.pmedr.2019.101015"></attvalue>
+          <attvalue for="format" value="author"></attvalue>
+          <attvalue for="type" value="author"></attvalue>
+          <attvalue for="category" value="author"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="170.50911" y="-132.19789"></viz:position>
+        <viz:color r="140" g="199" b="179"></viz:color>
+      </node>
+      <node id="ACS" label="ACS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="American Community Survey"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/acs/technical-documentation/pums/documentation.html"></attvalue>
+          <attvalue for="dictionary" value="https://www.census.gov/programs-surveys/acs/microdata/access.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="184.90051" y="249.54652"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="ADAM" label="ADAM">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Arrestee Drug Abuse Monitoring System"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://obamawhitehouse.archives.gov/sites/default/files/ondcp/policy-and-research/adam_ii_2013_annual_report.pdf"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="440.32138" y="-84.92116"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="AddHealth" label="AddHealth">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="national longitudinal study of adolescent and adult health (add health)"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="757.29016" y="258.5265"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="AHRF" label="AHRF">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Area Health Resource Files"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://data.hrsa.gov/Content/Documents/topics/AHRF%20Definition.pdf"></attvalue>
+          <attvalue for="dictionary" value="https://data.hrsa.gov/topics/health-workforce/ahrf#:~:text=Area%20Health%20Resources%20Files%20The%20Area%20Health%20Resources,and%20national%20levels%2C%20from%20over%2050%20data%20sources."></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="526.9605" y="115.97661"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="AMA Physician" label="AMA Physician">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="american medical associations physician masterfile"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.ama-assn.org/practice-management/masterfile/ama-physician-masterfile"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="938.3639" y="-92.421135"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="APIS" label="APIS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="alcohol policy information system"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="597.04376" y="286.09332"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="ARCOS" label="ARCOS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Automation of Reports and Consolidated Orders System"></attvalue>
+          <attvalue for="format" value="Prescription monitoring data"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.deadiversion.usdoj.gov/arcos/index.html#background"></attvalue>
+          <attvalue for="dictionary" value="https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/"></attvalue>
+          <attvalue for="availability" value="Request"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="401.99954" y="317.1102"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="ASAM" label="ASAM">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="American Society of Addiction Medicine"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="dictionary" value="https://www.asam.org/Quality-Science/publications"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="113.940445" y="-116.670044"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="ASEC" label="ASEC">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="annual social and economic supplement to the cps"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/saipe/guidance/model-input-data/cpsasec.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="657.23267" y="19.351418"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="ASI-MV" label="ASI-MV">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="asi-mv connect drug surveillance system"></attvalue>
+          <attvalue for="format" value="Prescription monitoring data"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.asi-mvconnect.com/About.aspx"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="231.77998" y="9.634815"></viz:position>
+        <viz:color r="14" g="126" b="223"></viz:color>
+      </node>
+      <node id="BEA" label="BEA">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="bea regional economic accounts"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.bea.gov/data/economic-accounts/regional"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="894.7801" y="18.614443"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="BRFSS" label="BRFSS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Behavior Risk Factor Surveillance Survey"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/brfss/index.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="850.5945" y="195.47275"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="CBP" label="CBP">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="US Census County Business Patterns"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/cbp/data/datasets.html"></attvalue>
+          <attvalue for="dictionary" value="https://www2.census.gov/programs-surveys/cbp/technical-documentation/records-layouts/2017_record_layouts/county_layout_2017.txt"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="679.8646" y="-103.0285"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="CDC Infants" label="CDC Infants">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="cdc linked birth and infant death records"></attvalue>
+          <attvalue for="format" value="Mortality records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/nchs/nvss/linked-birth.htm"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="967.3129" y="132.6965"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="CDC MCOD" label="CDC MCOD">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Centers for Disease Control and Prevention WONDER Multiple Cause of Death"></attvalue>
+          <attvalue for="format" value="Mortality records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://wonder.cdc.gov/wonder/help/mcd.html#"></attvalue>
+          <attvalue for="dictionary" value="https://wonder.cdc.gov/controller/datarequest/D77;jsessionid=F81E26DD2DC10510A6FB8FF96D78"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="462.6384" y="180.57759"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="CDC nchhstp" label="CDC nchhstp">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="states' hiv surveillance program"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/hiv/statistics/surveillance/systems/index.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="660.5725" y="176.34851"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="CDC NHBS" label="CDC NHBS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National HIV Behavioral Surveillance System"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/hiv/statistics/systems/nhbs/index.html"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-66.73178" y="198.28783"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="CDC NHCS" label="CDC NHCS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Hospital Care Survey"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/nchs/nhcs/index.htm"></attvalue>
+          <attvalue for="dictionary" value="https://www.cdc.gov/rdc/b1datatype/dt1224h.htm"></attvalue>
+          <attvalue for="availability" value="Request"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-41.186813" y="103.307014"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="CDC NHIS" label="CDC NHIS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Health Interview Survey"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/nchs/nhis/2019nhis.htm"></attvalue>
+          <attvalue for="dictionary" value="https://www.cdc.gov/nchs/nhis/2019nhis.htm"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="293.82443" y="-23.662039"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="CDC PHLP" label="CDC PHLP">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Centers for Disease Control and Prevention Public Health Law Program"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/phlp/publications/topic/index.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="184.38899" y="71.23654"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="CDC Prescription" label="CDC Prescription">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="cdc prescription opioid"></attvalue>
+          <attvalue for="format" value="Prescription monitoring data"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/drugoverdose/maps/rxcounty2019.html"></attvalue>
+          <attvalue for="dictionary" value="https://www.cdc.gov/drugoverdose/maps/rxrate-maps.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="942.5302" y="191.32059"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="Census Databook" label="Census Databook">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="city and county databook - CENSUS"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="population"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/library/publications/2010/compendia/databooks/ccdb07.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="663.59436" y="-41.88118"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="Census of Governments" label="Census of Governments">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="census bureau census of governments"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/cog.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="727.595" y="-60.864296"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="Census State Finances" label="Census State Finances">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Annual Survey of State Government Finances"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/state.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="755.74316" y="107.65557"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="CI Technology" label="CI Technology">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="computer intelligence technology database"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="technology"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://library.auraria.edu/databases/ci-technology-database"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="852.552" y="-99.80004"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="CPI" label="CPI">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="consumer price index BLS"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.bls.gov/cpi/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="646.3748" y="78.667"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="CPS" label="CPS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Current Population Survey"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/cps/technical-documentation/methodology.html"></attvalue>
+          <attvalue for="dictionary" value="https://www.census.gov/programs-surveys/cps/data/datasets.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="148.4499" y="189.79903"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="Data2000" label="Data2000">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="samhsa's data2000-certified physicians"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.samhsa.gov/medication-assisted-treatment/practitioner-resources/DATA-program-data"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="960.87256" y="-32.207764"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="DAWN" label="DAWN">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Drug Abuse Warning Network"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/DAWN-2011/DAWN-2011-datasets/DAWN-2011-DS0001/DAWN-2011-DS0001-info/DAWN-2011-DS0001-info-codebook.pdf"></attvalue>
+          <attvalue for="dictionary" value="https://www.datafiles.samhsa.gov/study-dataset/drug-abuse-warning-network-2011-dawn-2011-ds0001-nid13747"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="405.1413" y="147.55424"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="DEA CSA" label="DEA CSA">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Drug Enforcement Agency Active Controlled Substances Act Registrants Database"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://deadiversion.usdoj.gov/drugreg/index.html"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="222.43152" y="302.9662"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="EMSI" label="EMSI">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="economic modeling specialists international"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.economicmodeling.com/"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="769.41064" y="-106.24887"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="Eviction Lab" label="Eviction Lab">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="princeton university eviction lab"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://evictionlab.org/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="834.06244" y="28.201767"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="FAERS" label="FAERS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="US Food and Drug Administration Adverse Event Reporting System"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.fda.gov/drugs/drug-approvals-and-databases/fda-adverse-event-reporting-system-faers"></attvalue>
+          <attvalue for="dictionary" value="https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-6.174179" y="177.5113"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="FARS" label="FARS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Fatal Accident Reporting System"></attvalue>
+          <attvalue for="format" value="Mortality records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813023"></attvalue>
+          <attvalue for="dictionary" value="https://www.nhtsa.gov/node/97996/251"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="385.82028" y="32.857895"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="FISD" label="FISD">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="mergent municipal fixed income database"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.dataexplr.com/"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="840.7169" y="-138.65845"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="FRED" label="FRED">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="federal reserve economic data"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://fred.stlouisfed.org/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="928.5959" y="72.401505"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="GHDx" label="GHDx">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="global health data exchange"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="http://ghdx.healthdata.org/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="796.9853" y="146.10161"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="Google Grams" label="Google Grams">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="grams dataset"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="general"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://books.google.com/ngrams"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="886.83215" y="301.001"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="Google Trends" label="Google Trends">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="google trends data"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="general"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://trends.google.com/trends/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="926.40924" y="252.06604"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="GSL" label="GSL">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Good Samaritan Laws"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="link" value="https://www.gilmanbedigian.com/good-samaritan-laws/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="312.97958" y="247.60269"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="HCAHPS" label="HCAHPS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="hospital consume assessment of healthcare providers and systems' patients' perspectives of care"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HospitalQualityInits/HospitalHCAHPS"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="795.68286" y="308.43478"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="HCCI" label="HCCI">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="health care cost institute's insurance claims database"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://healthcostinstitute.org/data"></attvalue>
+          <attvalue for="dictionary" value="https://healthcostinstitute.org/images/HCCI_20_Prelim_Data_Dictionary_2020.pdf"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="861.97" y="404.4829"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="HCUP AHRQ" label="HCUP AHRQ">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="agency for healthcare research and quality's healthcare cost and utilization"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.ahrq.gov/data/hcup/index.html"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="935.2507" y="332.78818"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="HCUP HCUPnet" label="HCUP HCUPnet">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="hcupnet system Healthcare Cost and Utilization Project"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://hcupnet.ahrq.gov/#setup"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="834.3268" y="358.11768"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="HCUP NEDS" label="HCUP NEDS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Healthcare Cost and Utilization Project Nationwide Emergency Department Sample"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="dictionary" value="https://www.hcup-us.ahrq.gov/nedsoverview.jsp"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="455.79114" y="32.347164"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="HCUP NIS" label="HCUP NIS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Healthcare Cost and Utilization Project Nationwide Inpatient Sample"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="dictionary" value="https://www.hcup-us.ahrq.gov/nisoverview.jsp"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="465.01996" y="126.72206"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="HCUP SEDD" label="HCUP SEDD">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Healthcare Cost and Utilization Project State Emergency Department Databases"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="dictionary" value="https://www.hcup-us.ahrq.gov/seddoverview.jsp"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="336.59726" y="7.658413"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="HCUP SID" label="HCUP SID">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Healthcare Cost and Utilization Project State Inpatient Databases"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="dictionary" value="https://www.hcup-us.ahrq.gov/sidoverview.jsp"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="525.0187" y="-4.4082184"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="HDMP" label="HDMP">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="dea dmp Heroin Domestic Monitor Program"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.dea.gov/documents/2018/10/29/heroin-domestic-monitor-report"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="704.927" y="221.3393"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="HIRD" label="HIRD">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="HealthCore Integrated Research Database"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="dictionary" value="https://www.healthcore.com/research-position/"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="456.65485" y="236.06978"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="HRBS" label="HRBS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="department of defense survey of health and related behaviors among active duty personnel"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.rand.org/nsrd/projects/hrbs.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="839.0845" y="257.8111"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="HRC" label="HRC">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Harm Reduction Coalition data on organizations providing naloxone to laypersons"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6423a2.htm"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-82.52379" y="139.32848"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="IDV" label="IDV">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Symphony Health Solutions' Integrated Dataverse"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="dictionary" value="https://symphonyhealth.com/integrated-dataverse-idv/"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="341.92523" y="217.76454"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="IQVIA NPA" label="IQVIA NPA">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="IQVIA National Prescription Audit"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.iqvia.com/locations/united-states/solutions/commercial-operations/essential-information/prescription-information"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="399.41516" y="235.63318"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="IQVIA NSP" label="IQVIA NSP">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="IQVIA National Sales Perspectives"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.iqvia.com/locations/united-states/solutions/commercial-operations/essential-information/sales-information"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="424.9058" y="268.01038"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="IQVIA PayerTrak" label="IQVIA PayerTrak">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="IQVIA PayerTrak"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="dictionary" value="https://www.iqvia.com/-/media/iqvia/pdfs/institute-reports/use-of-opioid-recovery-medications.pdf"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="343.0128" y="174.95157"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="Kaiser HER" label="Kaiser HER">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Kaiser Permanente (formerly Group Health Cooperative) Electronic Health Records (EHR) System"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://business.kaiserpermanente.org/insights/a-look-at-true-connectivity-in-health-care"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="10.001465" y="294.20657"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="Kaiser Medicaid" label="Kaiser Medicaid">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="kaiser family foundation (medicaid expansion status)"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="link" value="https://www.kff.org/health-reform/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="748.2703" y="358.21344"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="LAUS" label="LAUS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="local area unemployment statistics BLS"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.bls.gov/lau/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="774.30475" y="-20.764122"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="LEOKA" label="LEOKA">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="fbi's law enforcement officers killed and assaulted"></attvalue>
+          <attvalue for="format" value="Mortality records"></attvalue>
+          <attvalue for="type" value="crime"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://ucr.fbi.gov/leoka/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="782.31586" y="199.57332"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="MACPAC" label="MACPAC">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="medicaid and chip payment and access commission"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="link" value="https://www.macpac.gov/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="685.2115" y="380.87695"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="MarketScan Commercial" label="MarketScan Commercial">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="MarketScan commercial claims database"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="dictionary" value="https://www.ibm.com/products/marketscan-research-databases/databases"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="233.78441" y="67.26294"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="MarketScan Medicaid" label="MarketScan Medicaid">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="MarketScan Multi-State Medicaid Database"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="dictionary" value="https://www.ibm.com/products/marketscan-research-databases/databases"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="463.9108" y="299.59702"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="MBSF" label="MBSF">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="master beneficiary summary file chronic conditions segment"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.resdac.org/cms-data/files/mbsf-cc"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="712.05457" y="302.2726"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="Medicaid Claims" label="Medicaid Claims">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Medicaid claims"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="dictionary" value="https://data.medicaid.gov/browse?limitTo=datasets"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-60.92389" y="314.8619"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="Medicare Data" label="Medicare Data">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Medicare Data Files"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="dictionary" value="https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="320.0808" y="98.01105"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="Medicare Part D" label="Medicare Part D">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Medicare Part D Prescription Drug Event"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.resdac.org/cms-data/files/pde/data-documentation"></attvalue>
+          <attvalue for="dictionary" value="https://www.resdac.org/cms-data/files/pde#:~:text=Part%20D%20Drug%20Event%20File.%20When%20a%20Medicare,%28PDPs%29%20and%20Medicare%20Advantage%20Prescription%20Drug%20Plans%20%28MA-PDs%29."></attvalue>
+          <attvalue for="availability" value="Request"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="298.9521" y="145.31088"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="MEPS" label="MEPS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Medical Expenditure Panel Survey"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.meps.ahrq.gov/mepsweb/about_meps/survey_back.jsp"></attvalue>
+          <attvalue for="dictionary" value="https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="180.40387" y="-2.0402374"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="MPP" label="MPP">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="marijuana policy project"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="link" value="https://www.mpp.org/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="645.2973" y="330.1318"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="MTF" label="MTF">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Monitoring the Future Survey"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="http://www.monitoringthefuture.org/"></attvalue>
+          <attvalue for="dictionary" value="http://monitoringthefuture.org/data/data.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="405.54416" y="86.2303"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NALs" label="NALs">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Naloxone access laws"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="123.833405" y="103.144516"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="NAMCS" label="NAMCS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Ambulatory Medical Care Survey"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/namcs.html"></attvalue>
+          <attvalue for="dictionary" value="https://www.cdc.gov/nchs/ahcd/index.htm"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-6.876404" y="242.21452"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NAMSDL" label="NAMSDL">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Alliance Model for State Drug Laws"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="dictionary" value="https://namsdl.org/topics/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="128.94438" y="41.808395"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="NAS" label="NAS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="neonatal abstinence syndrome data from state inpatient databases"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.hcup-us.ahrq.gov/faststats/NASServlet"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="731.43054" y="166.86874"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NAVIPPRO" label="NAVIPPRO">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Addictions Vigillance Intervention and Prevention Program"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="dictionary" value="https://www.ibhsolutions.com/research-data/navippro-research-analytics/"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="340.9537" y="313.6208"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="NCSL" label="NCSL">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Conference of State Legislatures"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="dictionary" value="https://www.ncsl.org/research.aspx"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="272.0054" y="195.50636"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="NDI" label="NDI">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Death Index"></attvalue>
+          <attvalue for="format" value="Mortality records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/nchs/ndi/about.htm"></attvalue>
+          <attvalue for="dictionary" value="https://www.cdc.gov/nchs/ndi/portal.htm"></attvalue>
+          <attvalue for="availability" value="Request"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="300.2997" y="-83.819244"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NDTI" label="NDTI">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="IQVIA National Disease and Therapeutic Index"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.iqvia.com/locations/united-states/solutions/commercial-operations/essential-information/survey-audits"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="264.72015" y="85.40944"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="NEMSIS" label="NEMSIS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Emergency Medical Services Information System"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://nemsis.org/technical-resources/version-3/version-3-data-dictionaries/"></attvalue>
+          <attvalue for="dictionary" value="https://nemsis.org/using-ems-data/request-research-data/"></attvalue>
+          <attvalue for="availability" value="Request"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="517.9493" y="226.87746"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NESARC" label="NESARC">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Epidemiologic Survey on Alcohol and Related Conditions"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.niaaa.nih.gov/research/nesarc-iii/general-codebook"></attvalue>
+          <attvalue for="dictionary" value="https://www.niaaa.nih.gov/procedures-obtaining-dataset"></attvalue>
+          <attvalue for="availability" value="Request"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="397.2856" y="-47.67498"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NFLIS" label="NFLIS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Forensic Laboratory Information System"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.nflis.deadiversion.usdoj.gov/Default.aspx"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="398.49634" y="-10.241846"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NHAMSCS" label="NHAMSCS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Hospital Ambulatory Medical Care Survey"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/nhamcs.html"></attvalue>
+          <attvalue for="dictionary" value="https://www.cdc.gov/nchs/ahcd/datasets_documentation_related.htm"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="40.535202" y="133.11191"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NHANES" label="NHANES">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="national health and nutrition examination surveys CDC"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/nchs/nhanes/index.htm"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="871.9875" y="142.51045"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NHS" label="NHS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="national household survey - FEMA"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.fema.gov/about/openfema/data-sets/national-household-survey"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="869.95197" y="85.539856"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="NIBRS" label="NIBRS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="national incident-based reporting system"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="crime"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.fbi.gov/services/cjis/ucr/nibrs"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="989.8419" y="284.94937"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NPDS" label="NPDS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Poison Data System"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://aapcc.org/national-poison-data-system"></attvalue>
+          <attvalue for="dictionary" value="https://piper.filecamp.com/s/vCc2ABASMUnjZZpH/d"></attvalue>
+          <attvalue for="availability" value="Request"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="330.29648" y="49.045044"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NPPES" label="NPPES">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="national plan and provider enumeration system"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.hhs.gov/sites/default/files/cms-national-plan-and-provider-enumeration-system.pdf"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="787.5949" y="-142.53679"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="NSDUH" label="NSDUH">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Survey on Drug Use and Health"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/NSDUH-2019/NSDUH-2019-datasets/NSDUH-2019-DS0001/NSDUH-2019-DS0001-info/NSDUH-2019-DS0001-info-codebook.pdf"></attvalue>
+          <attvalue for="dictionary" value="https://www.datafiles.samhsa.gov/study-dataset/national-survey-drug-use-and-health-2019-nsduh-2019-ds0001-nid19016"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="464.96814" y="73.25064"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="NSS" label="NSS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="national seizure system via ondcp"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://fas.org/sgp/crs/misc/R45812.pdf"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1037.278" y="174.12524"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="N-SSATs" label="N-SSATs">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="National Survey of Substance Abuse Treatment Services"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/N-SSATS-2019/N-SSATS-2019-datasets/N-SSATS-2019-DS0001/N-SSATS-2019-DS0001-info/N-SSATS-2019-DS0001-info-codebook.pdf"></attvalue>
+          <attvalue for="dictionary" value="https://www.datafiles.samhsa.gov/study-dataset/national-survey-substance-abuse-treatment-services-2019-n-ssats-2019-ds0001-nid18961"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="247.64664" y="257.27252"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="OCDETF" label="OCDETF">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="organized crime drug enforcement task force DEA"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.dea.gov/organized-crime-drug-enforcement-task-force-ocdetf"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1000.18243" y="224.03188"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="Open Payments" label="Open Payments">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="sunshine act's open payments"></attvalue>
+          <attvalue for="format" value="Prescription monitoring data"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.cms.gov/OpenPayments"></attvalue>
+          <attvalue for="dictionary" value="https://www.cms.gov/OpenPayments/Downloads/OpenPaymentsDataDictionary.pdf"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="657.25726" y="264.02673"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="Optum" label="Optum">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Optum"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="dictionary" value="https://www.optum.com/business/solutions/data-analytics.html"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="523.72943" y="173.77156"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="PBSS" label="PBSS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Prescription Behavior Surveillance System"></attvalue>
+          <attvalue for="format" value="Prescription monitoring data"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="273.9243" y="35.317986"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="PDAPS" label="PDAPS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Prescription Drug Abuse Policy System"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="dictionary" value="http://pdaps.org/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="246.17168" y="127.28571"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="PDMP" label="PDMP">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Prescription Drug Monitoring Programs"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="dictionary" value="https://www.pdmpassist.org/Policies/Maps"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="213.3937" y="188.8188"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="PEP" label="PEP">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="population and housing unit estimates Census"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="population"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/popest.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="716.397" y="1.6598053"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="Pill Mill Laws" label="Pill Mill Laws">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="pill mill laws - at local state levels"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="link" value="https://www.azdhs.gov/documents/prevention/womens-childrens-health/injury-prevention/opioid-prevention/50-state-review-printer-friendly.pdf"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="774.1617" y="410.96512"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="PMCL" label="PMCL">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Pain management clinics laws"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="181.17795" y="131.65137"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="Policy Surveillance Program" label="Policy Surveillance Program">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Policy Surveillance Program"></attvalue>
+          <attvalue for="format" value="Contextual and policy data"></attvalue>
+          <attvalue for="type" value="policy"></attvalue>
+          <attvalue for="category" value="Policy"></attvalue>
+          <attvalue for="link" value="http://lawatlas.org/topics"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="13.888573" y="343.54785"></viz:position>
+        <viz:color r="179" g="227" b="255"></viz:color>
+      </node>
+      <node id="prodcom" label="prodcom">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="account statistics and the prodcom database"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://ec.europa.eu/eurostat/web/prodcom/data/database"></attvalue>
+          <attvalue for="dictionary" value="https://ec.europa.eu/eurostat/web/prodcom/overview"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="835.0364" y="-29.838715"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="QCEW" label="QCEW">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="quarterly census of employment and wages"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.bls.gov/cew/downloadable-data-files.htm"></attvalue>
+          <attvalue for="dictionary" value="https://www.bls.gov/cew/overview.htm"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="707.4214" y="66.53636"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="QWI" label="QWI">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="quarterly workforce indicators"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/data/developers/data-sets/qwi.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="808.73846" y="85.225945"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="RADARS" label="RADARS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Researched Abuse, Diversion and Addiction-Related Surveillance System"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="dictionary" value="https://www.radars.org/radars-system-programs.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="525.6547" y="56.962776"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="Reckitt Benckiser" label="Reckitt Benckiser">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="reckitt benckiser pharmaceutical physician survey"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.prnewswire.com/news-releases/us-public-and-doctors-misperceptions-revealed-in-national-survey-demonstrate-urgent-need-for-increased-opioid-dependence-awareness-210981471.html"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="923.2967" y="378.18518"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="SAIPE" label="SAIPE">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="u.s. census bureau's small area income and poverty estimates"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.census.gov/programs-surveys/saipe.html"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="766.2299" y="41.257042"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="SAMHSA" label="SAMHSA">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Substance Abuse and Mental Health Services Administration buprenorphine physician treatment locator"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="dictionary" value="https://www.samhsa.gov/medication-assisted-treatment/practitioner-program-data/treatment-practitioner-locator"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="99.685844" y="344.48755"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="SDUD" label="SDUD">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Medicaid State Drug Utilization Data"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://data.medicaid.gov/State-Drug-Utilization/State-Drug-Utilization-Data-2020/va5y-jhsv"></attvalue>
+          <attvalue for="dictionary" value="https://data.medicaid.gov/State-Drug-Utilization/State-Drug-Utilization-Data-2020/va5y-jhsv"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="230.57318" y="-54.151035"></viz:position>
+        <viz:color r="0" g="125" b="235"></viz:color>
+      </node>
+      <node id="SEER" label="SEER">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="national cancer institute's surveillance epidemiology and end results"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="population"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://seer.cancer.gov/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="893.35297" y="-42.533295"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="STREETRx" label="STREETRx">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="StreetRx - latest street prices for illicit and prescription drugs"></attvalue>
+          <attvalue for="format" value="Prescription monitoring data"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://streetrx.com/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="515.0431" y="442.35507"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="STRIDE" label="STRIDE">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="System to Retrieve Information from Drug Evidence"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="333.26135" y="-58.416817"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="TEDS" label="TEDS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Treatment Episodes Dataset"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="TEDS-A https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/TEDS-A-2018/TEDS-A-2018-datasets/TEDS-A-2018-DS0001/TEDS-A-2018-DS0001-info/TEDS-A-2018-DS0001-info-codebook.pdf, TEDS-D https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/TEDS-D-2018/TEDS-D-2018-datasets/TEDS-D-2018-DS0001/TEDS-D-2018-DS0001-info/TEDS-D-2018-DS0001-info-codebook.pdf"></attvalue>
+          <attvalue for="dictionary" value="TEDS-A https://www.datafiles.samhsa.gov/study-dataset/treatment-episode-data-set-admissions-2018-teds-2018-ds0001-nid19020, TEDS-D https://www.datafiles.samhsa.gov/study-dataset/teds-d-2018-ds0001-teds-d-2018-ds0001-nid19018"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="446.64655" y="-15.007648"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="True Med Cost" label="True Med Cost">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="True medicine Cost"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://www.truemedcost.com/"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="615.64856" y="215.75243"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="Truven Marketscan" label="Truven Marketscan">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Truven Marketscan data"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="link" value="https://marketscan.truvenhealth.com/marketscanportal/"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="377.51532" y="192.62962"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="UCR" label="UCR">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Uniform Crime Report"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="crime"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.fbi.gov/services/cjis/ucr"></attvalue>
+          <attvalue for="dictionary" value="https://www.fbi.gov/services/cjis/ucr/data-documentation"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="365.8723" y="-97.75067"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="US News" label="US News">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="us news and world report (medical rankings)"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="education"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.usnews.com/best-graduate-schools/top-medical-schools"></attvalue>
+          <attvalue for="availability" value="Private"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="729.8718" y="-142.74808"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="USDA" label="USDA">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="usda rural-urban continuum codes"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="686.1291" y="123.701065"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="VHA CDW" label="VHA CDW">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Veterans' Health Administration Corporate Data Warehouse"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Pharma"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="67.769775" y="276.74933"></viz:position>
+        <viz:color r="0" g="129" b="235"></viz:color>
+      </node>
+      <node id="VHA NPCD" label="VHA NPCD">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Veterans' Health Administration National Patient Care Database"></attvalue>
+          <attvalue for="format" value="Claims and electronic health records"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-76.44499" y="251.38745"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+      <node id="Wholedata" label="Wholedata">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="wholedata establishment and employment database"></attvalue>
+          <attvalue for="format" value="Other sources"></attvalue>
+          <attvalue for="type" value="economy"></attvalue>
+          <attvalue for="category" value="Jobs"></attvalue>
+          <attvalue for="link" value="https://www.upjohn.org/data-tools/wholedata"></attvalue>
+          <attvalue for="availability" value="Request"></attvalue>
+          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="format_num" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="909.0442" y="-132.88708"></viz:position>
+        <viz:color r="255" g="146" b="56"></viz:color>
+      </node>
+      <node id="YRBSS" label="YRBSS">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+          <attvalue for="datasetname" value="Youth Risk Behavior Surveillance System"></attvalue>
+          <attvalue for="format" value="National surveys"></attvalue>
+          <attvalue for="type" value="health"></attvalue>
+          <attvalue for="category" value="Harms"></attvalue>
+          <attvalue for="link" value="https://www.cdc.gov/healthyyouth/data/yrbs/data.htm"></attvalue>
+          <attvalue for="dictionary" value="https://www.cdc.gov/healthyyouth/data/yrbs/index.htm"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
+          <attvalue for="format_num" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="405.187" y="449.65823"></viz:position>
+        <viz:color r="255" g="67" b="61"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1" source="Maclean2020" target="CDC Infants">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="6" source="Maclean2020" target="ASEC">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="9" source="Maclean2020" target="HCUP AHRQ">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="11" source="Maclean2020" target="FRED">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="17" source="Maclean2020" target="ACS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="21" source="Maclean2020" target="Census State Finances">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="24" source="Maclean2020" target="IDV">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="27" source="Maclean2020" target="BRFSS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="40" source="Maclean2020" target="FARS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="42" source="Maclean2020" target="BEA">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="48" source="Maclean2020" target="CDC NHIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="50" source="Maclean2020" target="FISD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="52" source="Maclean2020" target="HRBS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="53" source="Maclean2020" target="LEOKA">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="57" source="Maclean2020" target="CDC Prescription">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="58" source="Maclean2020" target="Google Grams">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="63" source="Maclean2020" target="EMSI">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="68" source="Maclean2020" target="HCUP SEDD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="70" source="Maclean2020" target="AHRF">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="78" source="Maclean2020" target="HCCI">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="83" source="Maclean2020" target="Eviction Lab">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="86" source="Maclean2020" target="MBSF">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="101" source="Maclean2020" target="CDC MCOD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="102" source="Maclean2020" target="Kaiser Medicaid">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="103" source="Maclean2020" target="LAUS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="104" source="Maclean2020" target="CBP">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="107" source="Maclean2020" target="CPI">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="119" source="Maclean2020" target="Census Databook">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="121" source="Maclean2020" target="CPS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="122" source="Maclean2020" target="CI Technology">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="127" source="Maclean2020" target="APIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="130" source="Maclean2020" target="Google Trends">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="131" source="Maclean2020" target="ADAM">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="139" source="Maclean2020" target="MACPAC">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="140" source="Maclean2020" target="HCUP HCUPnet">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="141" source="Maclean2020" target="CDC nchhstp">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="147" source="Maclean2020" target="Census of Governments">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="150" source="Maclean2020" target="AddHealth">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="151" source="Maclean2020" target="GHDx">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="167" source="Maclean2020" target="Data2000">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="177" source="Maclean2020" target="MPP">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="182" source="Maclean2020" target="MEPS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="183" source="Maclean2020" target="HDMP">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="185" source="Maclean2020" target="DAWN">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="191" source="Maclean2020" target="AMA Physician">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="196" source="Maclean2020" target="ASI-MV">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="198" source="Maclean2020" target="ARCOS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="203" source="Maclean2020" target="GSL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="205" source="Maclean2020" target="HCAHPS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="143" source="Medicare Part D" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="161" source="NALs" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="129" source="NAMSDL" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="181" source="NAS" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="137" source="NESARC" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="93" source="NFLIS" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="149" source="NHANES" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="100" source="NHS" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="146" source="NIBRS" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="88" source="NPPES" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="105" source="NSDUH" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="180" source="NSS" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="194" source="N-SSATs" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="164" source="OCDETF" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="91" source="Open Payments" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="77" source="Optum" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="39" source="Pain2017" target="ADAM">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="64" source="Pain2017" target="NPDS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="69" source="Pain2017" target="CDC MCOD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="89" source="Pain2017" target="ARCOS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="94" source="Pain2017" target="DAWN">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="98" source="Pain2017" target="MTF">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="106" source="Pain2017" target="NAVIPPRO">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="160" source="Pain2017" target="NSDUH">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="184" source="Pain2017" target="NFLIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="207" source="Pain2017" target="ASI-MV">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="192" source="PDAPS" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="200" source="PDMP" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="90" source="PEP" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="178" source="Pill Mill Laws" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="208" source="PMCL" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="202" source="prodcom" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="73" source="QCEW" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="168" source="QWI" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="47" source="RADARS" target="Pain2017">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="118" source="Reckitt Benckiser" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="138" source="SAIPE" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="72" source="SDUD" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="38" source="SEER" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="4" source="Smart2018" target="PMCL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="5" source="Smart2018" target="HRC">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="7" source="Smart2018" target="IQVIA PayerTrak">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="12" source="Smart2018" target="IQVIA NPA">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="15" source="Smart2018" target="FAERS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="19" source="Smart2018" target="Medicare Data">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="23" source="Smart2018" target="IDV">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="25" source="Smart2018" target="Medicare Part D">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="26" source="Smart2018" target="Policy Surveillance Program">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="29" source="Smart2018" target="NHAMSCS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="30" source="Smart2018" target="CDC MCOD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="34" source="Smart2018" target="CDC NHBS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="35" source="Smart2018" target="CDC PHLP">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="37" source="Smart2018" target="MarketScan Commercial">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="41" source="Smart2018" target="SAMHSA">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="45" source="Smart2018" target="HIRD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="49" source="Smart2018" target="CDC NHCS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="51" source="Smart2018" target="GSL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="54" source="Smart2018" target="HCUP NEDS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="56" source="Smart2018" target="MEPS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="66" source="Smart2018" target="NPDS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="71" source="Smart2018" target="CDC NHIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="74" source="Smart2018" target="ARCOS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="75" source="Smart2018" target="Medicaid Claims">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="81" source="Smart2018" target="NEMSIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="84" source="Smart2018" target="HCUP NIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="85" source="Smart2018" target="Kaiser HER">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="96" source="Smart2018" target="NAMCS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="97" source="Smart2018" target="NAVIPPRO">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="99" source="Smart2018" target="ADAM">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="109" source="Smart2018" target="DAWN">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="110" source="Smart2018" target="DEA CSA">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="112" source="Smart2018" target="NESARC">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="115" source="Smart2018" target="CPS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="116" source="Smart2018" target="MTF">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="117" source="Smart2018" target="FARS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="120" source="Smart2018" target="NSDUH">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="123" source="Smart2018" target="NAMSDL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="128" source="Smart2018" target="Optum">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="132" source="Smart2018" target="HCUP SEDD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="134" source="Smart2018" target="PBSS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="135" source="Smart2018" target="RADARS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="152" source="Smart2018" target="AHRF">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="154" source="Smart2018" target="IQVIA NSP">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="156" source="Smart2018" target="HCUP SID">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="157" source="Smart2018" target="NALs">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="162" source="Smart2018" target="PDMP">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="163" source="Smart2018" target="NDTI">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="166" source="Smart2018" target="PDAPS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="171" source="Smart2018" target="SDUD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="173" source="Smart2018" target="MarketScan Medicaid">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="176" source="Smart2018" target="NCSL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="190" source="Smart2018" target="NFLIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="193" source="Smart2018" target="STRIDE">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="195" source="Smart2018" target="N-SSATs">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="204" source="Smart2018" target="NDI">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="2" source="Smart2020" target="DAWN">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="8" source="Smart2020" target="HCUP NIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="10" source="Smart2020" target="MarketScan Commercial">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="13" source="Smart2020" target="NEMSIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="18" source="Smart2020" target="STRIDE">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="20" source="Smart2020" target="RADARS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="28" source="Smart2020" target="NDI">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="32" source="Smart2020" target="NAVIPPRO">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="33" source="Smart2020" target="HCUP NEDS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="36" source="Smart2020" target="GSL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="43" source="Smart2020" target="DEA CSA">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="44" source="Smart2020" target="HCUP SEDD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="46" source="Smart2020" target="NAMSDL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="60" source="Smart2020" target="ADAM">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="62" source="Smart2020" target="PDAPS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="65" source="Smart2020" target="CDC MCOD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="76" source="Smart2020" target="N-SSATs">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="79" source="Smart2020" target="NPDS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="80" source="Smart2020" target="PBSS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="82" source="Smart2020" target="ACS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="92" source="Smart2020" target="ASAM">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="111" source="Smart2020" target="NSDUH">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="113" source="Smart2020" target="PMCL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="124" source="Smart2020" target="CDC PHLP">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="125" source="Smart2020" target="IQVIA NPA">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="133" source="Smart2020" target="Medicare Part D">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="142" source="Smart2020" target="Medicare Data">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="145" source="Smart2020" target="ARCOS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="148" source="Smart2020" target="NFLIS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="153" source="Smart2020" target="PDMP">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="165" source="Smart2020" target="AHRF">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="170" source="Smart2020" target="NALs">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="174" source="Smart2020" target="NDTI">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="186" source="Smart2020" target="MarketScan Medicaid">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="187" source="Smart2020" target="IQVIA NSP">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="188" source="Smart2020" target="NCSL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="189" source="Smart2020" target="IQVIA PayerTrak">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="197" source="Smart2020" target="NESARC">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="201" source="Smart2020" target="HIRD">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="206" source="Smart2020" target="HCUP SID">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="209" source="Smart2020" target="CPS">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="61" source="STREETRx" target="Pain2017">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="14" source="STRIDE" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="179" source="STRIDE" target="Pain2017">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="16" source="TEDS" target="Pain2017">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="158" source="TEDS" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="169" source="TEDS" target="Smart2018">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="172" source="TEDS" target="Smart2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="108" source="True Med Cost" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="22" source="Truven Marketscan" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="144" source="Truven Marketscan" target="Smart2018">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="59" source="UCR" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="126" source="UCR" target="Pain2017">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="31" source="US News" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="175" source="USDA" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="159" source="VHA CDW" target="Smart2018">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="55" source="VHA NPCD" target="Smart2018">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="114" source="Wholedata" target="Maclean2020">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="95" source="YRBSS" target="Pain2017">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
