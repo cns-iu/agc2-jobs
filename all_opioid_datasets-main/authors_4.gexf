@@ -154,7 +154,7 @@
           <attvalue for="size" value="10"></attvalue>
           <attvalue for="datasetname" value="american medical associations physician masterfile"></attvalue>
           <attvalue for="format" value="Other sources"></attvalue>
-          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="type" value="prescriber/clinician"></attvalue>
           <attvalue for="category" value="Jobs"></attvalue>
           <attvalue for="link" value="https://www.ama-assn.org/practice-management/masterfile/ama-physician-masterfile"></attvalue>
           <attvalue for="availability" value="Private"></attvalue>
@@ -551,7 +551,7 @@
           <attvalue for="size" value="10"></attvalue>
           <attvalue for="datasetname" value="samhsa's data2000-certified physicians"></attvalue>
           <attvalue for="format" value="Other sources"></attvalue>
-          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="type" value="prescriber/clinician"></attvalue>
           <attvalue for="category" value="Jobs"></attvalue>
           <attvalue for="link" value="https://www.samhsa.gov/medication-assisted-treatment/practitioner-resources/DATA-program-data"></attvalue>
           <attvalue for="availability" value="Private"></attvalue>
@@ -586,7 +586,7 @@
           <attvalue for="size" value="10"></attvalue>
           <attvalue for="datasetname" value="Drug Enforcement Agency Active Controlled Substances Act Registrants Database"></attvalue>
           <attvalue for="format" value="Other sources"></attvalue>
-          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="type" value="prescriber/clinician"></attvalue>
           <attvalue for="category" value="Jobs"></attvalue>
           <attvalue for="link" value="https://deadiversion.usdoj.gov/drugreg/index.html"></attvalue>
           <attvalue for="availability" value="Private"></attvalue>
@@ -1566,14 +1566,14 @@
           <attvalue for="size" value="10"></attvalue>
           <attvalue for="datasetname" value="national plan and provider enumeration system"></attvalue>
           <attvalue for="format" value="Other sources"></attvalue>
-          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="type" value="prescriber/clinician"></attvalue>
           <attvalue for="category" value="Jobs"></attvalue>
           <attvalue for="link" value="https://www.hhs.gov/sites/default/files/cms-national-plan-and-provider-enumeration-system.pdf"></attvalue>
-          <attvalue for="availability" value="Private"></attvalue>
-          <attvalue for="availability_num" value="1"></attvalue>
+          <attvalue for="availability" value="Public"></attvalue>
+          <attvalue for="availability_num" value="5"></attvalue>
           <attvalue for="format_num" value="4"></attvalue>
         </attvalues>
-        <viz:size value="15.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="787.5949" y="-142.53679"></viz:position>
         <viz:color r="255" g="146" b="56"></viz:color>
       </node>
@@ -1653,7 +1653,7 @@
           <attvalue for="size" value="10"></attvalue>
           <attvalue for="datasetname" value="sunshine act's open payments"></attvalue>
           <attvalue for="format" value="Prescription monitoring data"></attvalue>
-          <attvalue for="type" value="drugs"></attvalue>
+          <attvalue for="type" value="prescriber/clinician"></attvalue>
           <attvalue for="category" value="Pharma"></attvalue>
           <attvalue for="link" value="https://www.cms.gov/OpenPayments"></attvalue>
           <attvalue for="dictionary" value="https://www.cms.gov/OpenPayments/Downloads/OpenPaymentsDataDictionary.pdf"></attvalue>
@@ -1909,7 +1909,7 @@
           <attvalue for="size" value="10"></attvalue>
           <attvalue for="datasetname" value="Substance Abuse and Mental Health Services Administration buprenorphine physician treatment locator"></attvalue>
           <attvalue for="format" value="Other sources"></attvalue>
-          <attvalue for="type" value="doctors"></attvalue>
+          <attvalue for="type" value="prescriber/clinician"></attvalue>
           <attvalue for="category" value="Jobs"></attvalue>
           <attvalue for="dictionary" value="https://www.samhsa.gov/medication-assisted-treatment/practitioner-program-data/treatment-practitioner-locator"></attvalue>
           <attvalue for="availability" value="Public"></attvalue>
