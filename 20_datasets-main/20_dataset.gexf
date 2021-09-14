@@ -265,7 +265,7 @@
         <viz:position x="-496.72305" y="357.00378"></viz:position>
         <viz:color r="0" g="129" b="235"></viz:color>
       </node>
-      <node id="13" label="MEDICAID">
+      <node id="13" label="SDUD">
         <attvalues>
           <attvalue for="size" value="3"></attvalue>
           <attvalue for="description" value="A national dataset reported by states for covered outpatient drugs that are paid for by state Medicaid agencies since the start of the Medicaid Drug Rebate Program. The data includes state, drug name, National Drug Code, number of prescriptions, and dollars reimbursed."></attvalue>
