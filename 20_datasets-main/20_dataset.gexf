@@ -25,7 +25,7 @@
     <nodes>
       <node id="0" label="CDC Opioid Mortality">
         <attvalues>
-          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="size" value="3,000"></attvalue>
           <attvalue for="description" value="A dataset of drug poisoning deaths at the national, state, and county levels as reported by mortality medical coders, nosologists, and other individuals responsible for processing vital records."></attvalue>
           <attvalue for="cat" value="Harms"></attvalue>
           <attvalue for="size (s/m/l)" value="S"></attvalue>
@@ -44,7 +44,7 @@
       </node>
       <node id="1" label="TEDS admissions">
         <attvalues>
-          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="size" value="2,000,000"></attvalue>
           <attvalue for="description" value="A national data system of annual admissions to substance abuse treatment facilities because substance abuse treatment programs are required by state laws to report their publically-funded admissions to the state. Some states also collect privately-funded admissions from facilities that receive public funding."></attvalue>
           <attvalue for="cat" value="Harms"></attvalue>
           <attvalue for="size (s/m/l)" value="L"></attvalue>
@@ -63,7 +63,7 @@
       </node>
       <node id="2" label="NHIS">
         <attvalues>
-          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="size" value="39,000"></attvalue>
           <attvalue for="description" value="A national survey collected through personal household interview about the health of the civillian noninstitutionalized population of the US."></attvalue>
           <attvalue for="cat" value="Harms"></attvalue>
           <attvalue for="size (s/m/l)" value="M"></attvalue>
@@ -81,7 +81,7 @@
       </node>
       <node id="3" label="NSDUH">
         <attvalues>
-          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="size" value="70,000"></attvalue>
           <attvalue for="description" value="A yearly national survey since 1971 about tobacco, alcohol, and drug use, mental health, and other health-related issues."></attvalue>
           <attvalue for="cat" value="Harms"></attvalue>
           <attvalue for="size (s/m/l)" value="M"></attvalue>
@@ -100,7 +100,7 @@
       </node>
       <node id="4" label="NAMCS">
         <attvalues>
-          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="size" value="40,000"></attvalue>
           <attvalue for="description" value="An annual, national survey of a sample of non-federally employed, office-based physicians who are primarily engaged in direct patient care about ambulatory care provided at physicians' offices."></attvalue>
           <attvalue for="cat" value="Harms"></attvalue>
           <attvalue for="size (s/m/l)" value="M"></attvalue>
@@ -119,7 +119,7 @@
       </node>
       <node id="5" label="MEPS">
         <attvalues>
-          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="size" value="30,000"></attvalue>
           <attvalue for="description" value="A national survey of families and individuals, their medical providers, and employers across the US with questions about specific health services, frequency of use of health services, cost of health services, how the health services are pair for, and the cost, scope, and breadth of health insurance held by and available to US workers."></attvalue>
           <attvalue for="cat" value="Pharma"></attvalue>
           <attvalue for="size (s/m/l)" value="L"></attvalue>
@@ -137,7 +137,7 @@
       </node>
       <node id="6" label="N-SSATs">
         <attvalues>
-          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="size" value="15,000"></attvalue>
           <attvalue for="description" value="An annual census of all treatment facilities listed on the I-BHS, an electronic master list of all organized substance abuse treatment faciliies known to the SAMHSA. Information on location, organization, structure, services, and utilization of substance abuse treatment facilities in the US is collected."></attvalue>
           <attvalue for="cat" value="Jobs"></attvalue>
           <attvalue for="size (s/m/l)" value="M"></attvalue>
@@ -156,7 +156,7 @@
       </node>
       <node id="7" label="QCEW">
         <attvalues>
-          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="size" value="3,000,000"></attvalue>
           <attvalue for="description" value="Quarterly count of employment and wages reported by employers covering more than 95% of US jobs available at the county, Metropolitan Statistical Area, state and national levels by detailed industry."></attvalue>
           <attvalue for="cat" value="Jobs"></attvalue>
           <attvalue for="size (s/m/l)" value="L"></attvalue>
@@ -173,7 +173,7 @@
       </node>
       <node id="8" label="AHRF">
         <attvalues>
-          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="size" value="4,000"></attvalue>
           <attvalue for="description" value="A national dataset that is comprised of data collected from more than 50 sources and contains more than 6,000 variables related to health care access."></attvalue>
           <attvalue for="cat" value="Jobs"></attvalue>
           <attvalue for="size (s/m/l)" value="S"></attvalue>
@@ -192,15 +192,15 @@
       </node>
       <node id="9" label="CPS">
         <attvalues>
-          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="size" value="60,000"></attvalue>
           <attvalue for="description" value="A monthly national survey sent to a sample of people across the US that asks questions about education, employment, internet access, transportation, etc."></attvalue>
           <attvalue for="cat" value="Jobs"></attvalue>
           <attvalue for="size (s/m/l)" value="M"></attvalue>
           <attvalue for="start" value="1994"></attvalue>
           <attvalue for="end" value="2021"></attvalue>
           <attvalue for="weight" value="2"></attvalue>
-          <attvalue for="data source" value="https://www.census.gov/programs-surveys/cps/technical-documentation/methodology.html"></attvalue>
-          <attvalue for="data dictionary" value="https://www.census.gov/programs-surveys/cps/data/datasets.html"></attvalue>
+          <attvalue for="data source" value="https://www.census.gov/programs-surveys/cps/data/datasets.html"></attvalue>
+          <attvalue for="data dictionary" value="https://www.census.gov/programs-surveys/cps/technical-documentation/methodology.html"></attvalue>
           <attvalue for="pub1" value="Maclean, J. C., Ghimire, K. M., &amp; Nicholas, L. H. (2021). Marijuana legalization and disability claiming. Health Economics (United Kingdom), 30(2), 453-469. https://doi.org/10.1002/hec.4190"></attvalue>
           <attvalue for="pub2" value="Buckles, K., Evans, W. N., &amp; Lieber, E. M. J. (2020). The Drug Crisis and the Living Arrangements of Children. NBER Worging Paper Series. https://fas.org/sgp/crs/natsec/RL32492.pdf"></attvalue>
           <attvalue for="pub3" value="Dow, W. H., Godøy, A., Lowenstein, C., &amp; Reich, M. (2020). Can Labor Market Policies Reduce Deaths of Despair? Journal of Health Economics, 74. https://doi.org/10.1016/j.jhealeco.2020.102372"></attvalue>
@@ -211,7 +211,7 @@
       </node>
       <node id="10" label="CBP">
         <attvalues>
-          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="size" value="1,000,000"></attvalue>
           <attvalue for="description" value="A national database of annual statistics for businesses with paid employees within the US and US terriroties, taken from the Business Register. Data includes the number of establishments, employment during the week of March 12, first quarter payroll, and annual payroll."></attvalue>
           <attvalue for="cat" value="Jobs"></attvalue>
           <attvalue for="size (s/m/l)" value="L"></attvalue>
@@ -230,7 +230,7 @@
       </node>
       <node id="11" label="ACS">
         <attvalues>
-          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="size" value="3,500,000"></attvalue>
           <attvalue for="description" value="A monthly national survey sent to a sample of people across the US that asks questions about education, employment, internet access, transportation, etc."></attvalue>
           <attvalue for="cat" value="Jobs"></attvalue>
           <attvalue for="size (s/m/l)" value="L"></attvalue>
@@ -249,7 +249,7 @@
       </node>
       <node id="12" label="Open Payments">
         <attvalues>
-          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="size" value="11,000,000"></attvalue>
           <attvalue for="description" value="A national disclosure program provides detailed information on financial relationships including consulting fees, research grants, travel reimbursements, ownership, and other direct payments from manufacturers to medical practitioners (physicians and teaching hospitals)."></attvalue>
           <attvalue for="cat" value="Pharma"></attvalue>
           <attvalue for="size (s/m/l)" value="L"></attvalue>
@@ -267,7 +267,7 @@
       </node>
       <node id="13" label="SDUD">
         <attvalues>
-          <attvalue for="size" value="3"></attvalue>
+          <attvalue for="size" value="5,000,000"></attvalue>
           <attvalue for="description" value="A national dataset reported by states for covered outpatient drugs that are paid for by state Medicaid agencies since the start of the Medicaid Drug Rebate Program. The data includes state, drug name, National Drug Code, number of prescriptions, and dollars reimbursed."></attvalue>
           <attvalue for="cat" value="Pharma"></attvalue>
           <attvalue for="size (s/m/l)" value="L"></attvalue>
@@ -283,7 +283,7 @@
       </node>
       <node id="14" label="Medicare">
         <attvalues>
-          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="size" value="800,000"></attvalue>
           <attvalue for="description" value="A national database of all transactions covered by the Medicare prescription drug plan for both Prescription Drug Plans (PDPs) and Medicare Advantage Prescription Drug Plans (MA-PDs). Variables include service date, produce service ID, quantity dispensed, days supply, cost, payment, and linkage variables."></attvalue>
           <attvalue for="cat" value="Pharma"></attvalue>
           <attvalue for="size (s/m/l)" value="M"></attvalue>
@@ -301,7 +301,7 @@
       </node>
       <node id="15" label="ARCOS">
         <attvalues>
-          <attvalue for="size" value="2"></attvalue>
+          <attvalue for="size" value="700,000"></attvalue>
           <attvalue for="description" value="An automated, comprehaensive drug reporting system which monitors the flow of DEA controlled substances from their point of manufacture through commercial distribution channels to point of sale or distribution of the dispensing/retail level."></attvalue>
           <attvalue for="cat" value="Pharma"></attvalue>
           <attvalue for="size (s/m/l)" value="M"></attvalue>
@@ -320,7 +320,7 @@
       </node>
       <node id="16" label="CDC Prescription">
         <attvalues>
-          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="size" value="3,000"></attvalue>
           <attvalue for="description" value="The source for all prescribing data comes from IQVIA Xponent, which is based on a sample of approximately 49,900 retail (non-hospital) pharmacies, which dispense nearly 92% of all retail prescriptions in the US. This database does not include mail order prescriptions."></attvalue>
           <attvalue for="cat" value="Pharma"></attvalue>
           <attvalue for="size (s/m/l)" value="S"></attvalue>
@@ -339,7 +339,7 @@
       </node>
       <node id="17" label="NAMSDL">
         <attvalues>
-          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="size" value="50"></attvalue>
           <attvalue for="description" value="NAMSDL, originally President's Commission on Model State Drug Laws, was established to create model codes of laws to help states effectively address alcohol and other drug abuse. Topics include prevention and intervention, treatment, recovery support, overdose abatement, criminal justice, alcohol, and PDMPs."></attvalue>
           <attvalue for="cat" value="Policy"></attvalue>
           <attvalue for="size (s/m/l)" value="S"></attvalue>
@@ -357,7 +357,7 @@
       </node>
       <node id="18" label="PDAPS">
         <attvalues>
-          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="size" value="50"></attvalue>
           <attvalue for="description" value="A national database that tracks key state laws related to prescription drug abuse. Topic areas include criminal justice, expanded access to naloxone, good samaritan 911 immunity, medical marijuana, opioid related controls, and PDMP."></attvalue>
           <attvalue for="cat" value="Policy"></attvalue>
           <attvalue for="size (s/m/l)" value="S"></attvalue>
@@ -375,7 +375,7 @@
       </node>
       <node id="19" label="PDMP">
         <attvalues>
-          <attvalue for="size" value="1"></attvalue>
+          <attvalue for="size" value="50"></attvalue>
           <attvalue for="description" value="An electronic database that tracks controlled substance prescriptions in a state in real time. Not every state has a PDMP and what information practitioners and pharmacists are required to include differ by state. The Kentucky All Schedule Prescription Electronic Reporting system, or KASPER, represents one standard of these data systems."></attvalue>
           <attvalue for="cat" value="Pharma"></attvalue>
           <attvalue for="size (s/m/l)" value="S"></attvalue>
